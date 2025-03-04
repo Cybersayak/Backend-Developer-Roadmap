@@ -1,5 +1,4 @@
-Here’s a list of 50 Node.js and Express project ideas designed to improve your backend development skills. 
-This list starts with beginner-level projects and progresses to advanced ones to give you a full stack of skills by the end.
+Here’s a list of 50 Node.js Assignment designed to improve your backend development skills. 
 
 
 ### Beginner-Level Projects
